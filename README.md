@@ -2,9 +2,9 @@
 ## Semester 1 2026
 
 Fill in your details and get them correct, delete this line when done. Correctly filling in ReadMe.md is generously part of the marking scheme!
-# Name: [Your Name]
-# Group: [Your Group (look on your timetable)]
-# Course: [Your Course]
+# Name: Artur Korol
+# Group: 5 Wednesday 9am
+# Course: Computer Science
 
 ### [YouTube Demo Link for Assignment1](https://insertYourLinkHere)
 
